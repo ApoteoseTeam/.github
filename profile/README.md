@@ -40,7 +40,7 @@ O ecossistema técnico do projeto foi construído com foco em escalabilidade e p
 * **Back-end:** Python | Django | Django REST Framework | Flask | APIs REST.
 * **Banco de dados:** PostgreSQL
 * **Inteligência artificial e Visão Computacional:** Agno | Gemini API | Ollama | YOLO | ByteTrack
-* **Design & Prototipagem:** [Figma]([https://www.figma.com/](https://www.figma.com/design/ysr6QQkoW6pyIeqRFMKdlP/Reali?node-id=0-1&t=zdcrA6rXFZBxejUb-1))
+* **Design & Prototipagem:** [Figma](https://www.figma.com/design/ysr6QQkoW6pyIeqRFMKdlP/Reali?node-id=0-1&t=zdcrA6rXFZBxejUb-1)
 * **Estilização:** TypeScript | StyleSheet (React Native)
 * **Versionamento:** Git & GitHub
 
