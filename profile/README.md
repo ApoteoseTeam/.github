@@ -11,7 +11,7 @@ Por meio da análise de dados, buscamos ajudar as escolas a compreender o consum
 
 > "Mais controle, Menos desperdício"🍃 
 
-Conheça mais [linktree](https://reali.linkthe.app/)
+Conheça mais [linkthe](https://reali.linkthe.app/)
 
 ---
 ## 🎯 Diretrizes Estratégicas
