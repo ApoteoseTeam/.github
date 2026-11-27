@@ -37,7 +37,7 @@ Ser referência em gestão alimentar sustentável.
 O ecossistema técnico do projeto foi construído com foco em escalabilidade e performance:
 
 * **Front-end:** React Native | Expo | TypeScript
-* **Back-end:** Python | Django | Django REST Framework | Flask | APIs REST.
+* **Back-end:** Python | Django | Django REST Framework | APIs REST | Autenticação e Autorização JWT.
 * **Banco de dados:** PostgreSQL
 * **Inteligência artificial e Visão Computacional:** Agno | Gemini API | Ollama | YOLO | ByteTrack
 * **Design & Prototipagem:** [Figma](https://www.figma.com/design/ysr6QQkoW6pyIeqRFMKdlP/Reali?node-id=0-1&t=zdcrA6rXFZBxejUb-1)
